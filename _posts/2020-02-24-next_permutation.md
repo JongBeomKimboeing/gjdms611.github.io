@@ -8,8 +8,9 @@ seo:
 ---
 
 next_permutation은 순열을 계산해준다!<br>
-<algorithm> 헤더에 저장되어있는 함수입니다.<br>
-사용법은(VS가 매우 친절하게 알려주긴 하지만,)<br>
+
+`<algorithm>` 헤더에 저장되어있는 함수입니다.<br>
+사용법은(VS가 매우 친절하게 알려주긴 하지만,)
 
 ```c++
 next_permutation(시작주소, 마지막 원소의 바로 다음 주소)
