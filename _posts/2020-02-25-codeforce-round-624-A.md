@@ -3,6 +3,8 @@ title: '[codeforce] Codeforces Round #624 - A. Add Odd or Subtract Even'
 date: 2020-02-25 22:14:06 +0900
 categories: [Algorithm, codeforce]
 tags: [Python]
+seo:
+  date_modified: 2020-02-25 22:47:13 +0900
 ---
 
 [문제 링크](http://codeforces.com/contest/1311/problem/A)
