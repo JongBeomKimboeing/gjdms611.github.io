@@ -39,3 +39,6 @@ for T in range(int(input())):
         else:
             print(2)
 ```
+
+</div>
+</details>
