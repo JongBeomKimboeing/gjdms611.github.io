@@ -1,7 +1,7 @@
 ---
-title: '[codeforce] Codeforces Round #624 - A. Add Odd or Subtract Even'
+title: '[codeforces] Codeforces Round #624 - A. Add Odd or Subtract Even'
 date: 2020-02-25 22:14:06 +0900
-categories: [Algorithm, codeforce]
+categories: [Algorithm, codeforces]
 tags: [Python]
 seo:
   date_modified: 2020-02-25 22:47:13 +0900
