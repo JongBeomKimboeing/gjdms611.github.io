@@ -2,7 +2,7 @@
 title: '[codeforces] Codeforces Round #624 - C. Perform the Combo'
 date: 2020-02-25 22:25:52 +0900
 categories: [Algorithm, codeforces]
-tags: [c++, 구간합]
+tags: [C++, 구간합]
 ---
 
 [문제 링크](http://codeforces.com/contest/1311/problem/C)

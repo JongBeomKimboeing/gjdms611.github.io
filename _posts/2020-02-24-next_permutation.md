@@ -2,7 +2,7 @@
 title: '[STL] next_permutation'
 date: 2020-02-24 20:06:03 +0900
 categories: [Algorithm, STL]
-tags: [STL, next_permutation]
+tags: [C++, STL, next_permutation]
 seo:
   date_modified: 2020-02-24 20:13:13 +0900
 ---

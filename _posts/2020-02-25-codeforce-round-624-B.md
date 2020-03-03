@@ -2,7 +2,7 @@
 title: '[codeforces] Codeforces Round #624 - B. WeirdSort'
 date: 2020-02-25 22:19:24 +0900
 categories: [Algorithm, codeforces]
-tags: [c++, 정렬]
+tags: [C++, 정렬]
 ---
 
 [문제 링크](http://codeforces.com/contest/1311/problem/B)
