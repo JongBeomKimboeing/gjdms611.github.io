@@ -1,7 +1,7 @@
 ---
-title: '[codeforces] Codeforces Round #624 - B. WeirdSort'
+title: '[Codeforces] Codeforces Round #624 - B. WeirdSort'
 date: 2020-02-25 22:19:24 +0900
-categories: [Algorithm, codeforces]
+categories: [Algorithm, Codeforces]
 tags: [C++, 정렬]
 seo:
   date_modified: 2020-03-03 12:35:54 +0900

@@ -1,7 +1,7 @@
 ---
-title: '[codeforces] Codeforces Round #624 - C. Perform the Combo'
+title: '[Codeforces] Codeforces Round #624 - C. Perform the Combo'
 date: 2020-02-25 22:25:52 +0900
-categories: [Algorithm, codeforces]
+categories: [Algorithm, Codeforces]
 tags: [C++, 구간합]
 seo:
   date_modified: 2020-03-03 12:35:54 +0900
