@@ -4,7 +4,7 @@ date: 2020-02-25 22:25:52 +0900
 categories: [Algorithm, Codeforces]
 tags: [C++, 구간합]
 seo:
-  date_modified: 2020-03-03 12:35:54 +0900
+  date_modified: 2020-03-05 05:02:41 +0900
 ---
 
 [문제 링크](http://codeforces.com/contest/1311/problem/C)

@@ -4,7 +4,7 @@ date: 2020-02-25 22:14:06 +0900
 categories: [Algorithm, Codeforces]
 tags: [Python]
 seo:
-  date_modified: 2020-03-02 14:42:40 +0900
+  date_modified: 2020-03-05 05:02:41 +0900
 ---
 
 [문제 링크](http://codeforces.com/contest/1311/problem/A)
