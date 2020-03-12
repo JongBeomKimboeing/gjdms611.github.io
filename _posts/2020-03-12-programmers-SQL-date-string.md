@@ -3,6 +3,8 @@ title: '[프로그래머스] SQL 고득점 Kit - String, Date'
 date: 2020-03-12 14:05:23 +0900
 categories: [Programmers, SQL]
 tags: [SQL]
+seo:
+  date_modified: 2020-03-12 14:17:07 +0900
 ---
 
 [문제 링크](https://programmers.co.kr/learn/courses/30/parts/17042)
