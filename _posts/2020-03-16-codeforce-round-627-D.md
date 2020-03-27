@@ -7,10 +7,10 @@ tags: [C++, upper_bound]
 
 [문제 링크](https://codeforces.com/problemset/problem/1324/D)
 
-조건식에서 오른쪽을 모두 왼쪽으로 넘겨서 정리하면, (a~i~-b~i~)+(a~j~-b~j~)>0이 된다.<br>
+조건식에서 오른쪽을 모두 왼쪽으로 넘겨서 정리하면, (a<sub>i</sub>-b<sub>i</sub>)+(a<sub>j</sub>-b<sub>j</sub>)>0이 된다.<br>
 즉, 배열을 하나로 정리할 수 있다.<br>
 또한 i와 j의 순서는 결국 상관이 없게되기 때문에 배열을 정렬해도 문제가 없다.<br>
-이제 1 이상인 배열의 갯수는 ~n~C~2~, 즉 (n*(n-1))/2로 계산해주면 된다.<br>
+이제 1 이상인 배열의 갯수는 <sub>n</sub>C<sub>2</sub>, 즉 (n*(n-1))/2로 계산해주면 된다.<br>
 음수의 경우 upper_bound를 이용해 합해서 양수가 되는 지점을 찾아 그 갯수를 더해주었다.
 
 <details>
